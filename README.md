@@ -57,3 +57,14 @@ python Archiver.py compress/myfile.bz2 decompress -x
 - .zst → zstd (через zlib)
 ---
 ## 🖼️ Скриншоты
+### Архивация bz2
+![Image alt](https://github.com/StefanoY-Y/ArchiverForPython3.14/blob/master/Screenshots/Архивация%20bz2.png)
+### Архивация zst
+![Image alt](https://github.com/StefanoY-Y/ArchiverForPython3.14/blob/master/Screenshots/Архивация%20zst.png)
+### Распаковка bz2
+![Image alt](https://github.com/StefanoY-Y/ArchiverForPython3.14/blob/master/Screenshots/Распаковка%20bz2.png)
+### Распаковка zst
+![Image alt](https://github.com/StefanoY-Y/ArchiverForPython3.14/blob/master/Screenshots/Распаковка%20zst.png)
+
+
+
